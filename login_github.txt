@@ -1,0 +1,4 @@
+# Example for Ubuntu/Debian in WSL:
+sudo apt update
+sudo apt install gh
+gh auth login
